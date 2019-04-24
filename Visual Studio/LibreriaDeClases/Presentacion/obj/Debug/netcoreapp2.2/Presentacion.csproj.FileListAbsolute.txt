@@ -1,0 +1,28 @@
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\StringLibreria.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\StringLibreria.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.csproj.CopyComplete
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\Presentacion.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\StringLibreria.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\bin\Debug\netcoreapp2.2\StringLibreria.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.csproj.CopyComplete
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Presentacion\obj\Debug\netcoreapp2.2\Presentacion.pdb

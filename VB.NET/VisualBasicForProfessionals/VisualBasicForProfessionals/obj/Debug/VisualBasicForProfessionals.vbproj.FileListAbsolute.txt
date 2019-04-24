@@ -1,0 +1,11 @@
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\bin\Debug\VisualBasicForProfessionals.exe.config
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\bin\Debug\VisualBasicForProfessionals.exe
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\bin\Debug\VisualBasicForProfessionals.pdb
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\bin\Debug\VisualBasicForProfessionals.xml
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\obj\Debug\VisualBasicForProfessionals.vbprojAssemblyReference.cache
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\obj\Debug\VisualBasicForProfessionals.Resources.resources
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\obj\Debug\VisualBasicForProfessionals.vbproj.GenerateResource.cache
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\obj\Debug\VisualBasicForProfessionals.vbproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\obj\Debug\VisualBasicForProfessionals.exe
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\obj\Debug\VisualBasicForProfessionals.xml
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Documents\VisualBasicForProfessionals\VisualBasicForProfessionals\obj\Debug\VisualBasicForProfessionals.pdb

@@ -1,0 +1,28 @@
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.deps.json
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.json
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.dev.json
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.dll
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.pdb
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cache
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cs
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfo.cs
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.dll
+C:\Users\jjose\Documents\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.pdb

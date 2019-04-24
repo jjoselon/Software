@@ -1,0 +1,11 @@
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\Constructores.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\Constructores.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\Constructores.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\Constructores.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\Constructores.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\Constructores.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\Constructores.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\Constructores.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\Constructores.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\Constructores.csprojAssemblyReference.cache

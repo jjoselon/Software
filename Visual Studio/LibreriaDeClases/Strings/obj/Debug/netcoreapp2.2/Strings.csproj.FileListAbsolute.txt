@@ -1,0 +1,22 @@
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\bin\Debug\netcoreapp2.2\Strings.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Strings\obj\Debug\netcoreapp2.2\Strings.pdb

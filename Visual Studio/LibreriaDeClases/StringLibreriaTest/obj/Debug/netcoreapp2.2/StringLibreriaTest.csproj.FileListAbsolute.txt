@@ -1,0 +1,34 @@
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreria.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreria.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.csproj.CopyComplete
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreriaTest.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreria.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\bin\Debug\netcoreapp2.2\StringLibreria.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.csproj.CopyComplete
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreriaTest\obj\Debug\netcoreapp2.2\StringLibreriaTest.pdb

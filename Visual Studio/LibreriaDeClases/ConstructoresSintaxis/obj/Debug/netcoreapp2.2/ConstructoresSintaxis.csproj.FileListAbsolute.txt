@@ -1,0 +1,22 @@
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.dll
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.dll
+C:\Users\jjose\Documents\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\bin\Debug\netcoreapp2.2\ConstructoresSintaxis.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\ConstructoresSintaxis\obj\Debug\netcoreapp2.2\ConstructoresSintaxis.pdb

@@ -1,0 +1,65 @@
+﻿<!-- model IEnumerable<MVCapplicacion.Models.Binnacle> -->
+@model MVCapplicacion.Models.BinnacleViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-controller="Binnacles" asp-action="Index">
+    <p>
+        Title: <input type="text" name="searchString" />
+        <input type="submit" value="Filter" />
+        <select asp-for="Binnacles" asp-items="Model.BinnaclesIds">
+            <option value="">All</option>
+        </select>
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Binnacles[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Binnacles[0].Body)
+            </th>           
+            <th>
+                @Html.DisplayNameFor(model => model.Binnacles[0].BinnacleType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Binnacles[0].PublishDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Binnacles)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Body)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BinnacleType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PublishDate)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

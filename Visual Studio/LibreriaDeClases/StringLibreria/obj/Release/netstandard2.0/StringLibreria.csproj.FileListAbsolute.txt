@@ -1,0 +1,9 @@
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\bin\Release\netstandard2.0\StringLibreria.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\bin\Release\netstandard2.0\StringLibreria.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\bin\Release\netstandard2.0\StringLibreria.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Release\netstandard2.0\StringLibreria.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Release\netstandard2.0\StringLibreria.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Release\netstandard2.0\StringLibreria.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Release\netstandard2.0\StringLibreria.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Release\netstandard2.0\StringLibreria.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Release\netstandard2.0\StringLibreria.pdb

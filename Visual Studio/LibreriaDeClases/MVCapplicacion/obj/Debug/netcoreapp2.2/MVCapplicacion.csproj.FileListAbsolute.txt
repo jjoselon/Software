@@ -1,0 +1,72 @@
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.dll
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.Views.dll
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.Views.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorAssemblyInfo.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorAssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.TagHelpers.input.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.TagHelpers.output.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorCoreGenerate.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorTargetAssemblyInfo.cache
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorTargetAssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.Views.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.dll
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.csproj.CopyComplete
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Create.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Delete.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Details.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Edit.g.cshtml.cs
+C:\Users\jjose\Documents\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Index.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.Views.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\bin\Debug\netcoreapp2.2\MVCapplicacion.Views.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorAssemblyInfo.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorAssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.TagHelpers.input.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.TagHelpers.output.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorCoreGenerate.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Create.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Delete.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Details.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Edit.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Binnacles\Index.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorTargetAssemblyInfo.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.RazorTargetAssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.Views.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\MVCapplicacion\obj\Debug\netcoreapp2.2\MVCapplicacion.csproj.CopyComplete

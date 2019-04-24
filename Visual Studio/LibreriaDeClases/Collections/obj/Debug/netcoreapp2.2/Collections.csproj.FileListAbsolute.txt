@@ -1,0 +1,22 @@
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\bin\Debug\netcoreapp2.2\Collections.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Collections\obj\Debug\netcoreapp2.2\Collections.pdb

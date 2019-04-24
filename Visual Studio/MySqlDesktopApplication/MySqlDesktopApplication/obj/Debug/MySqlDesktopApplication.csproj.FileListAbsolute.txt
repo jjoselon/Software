@@ -1,0 +1,30 @@
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySqlDesktopApplication.exe.config
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySqlDesktopApplication.exe
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySqlDesktopApplication.pdb
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySql.Data.dll
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySql.Data.xml
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csprojAssemblyReference.cache
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.Form1.resources
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.Properties.Resources.resources
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csproj.GenerateResource.cache
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csproj.CopyComplete
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.exe
+C:\Users\APRENDIZ.DESKTOP-6L5LKEE\Desktop\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySqlDesktopApplication.exe.config
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySqlDesktopApplication.exe
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySqlDesktopApplication.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySql.Data.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\bin\Debug\MySql.Data.xml
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.Form1.resources
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.Properties.Resources.resources
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csproj.GenerateResource.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.csproj.CopyComplete
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.exe
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\MySqlDesktopApplication\MySqlDesktopApplication\obj\Debug\MySqlDesktopApplication.pdb

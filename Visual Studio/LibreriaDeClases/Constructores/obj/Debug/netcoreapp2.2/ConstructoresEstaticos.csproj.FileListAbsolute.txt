@@ -1,0 +1,22 @@
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.runtimeconfig.json
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.runtimeconfig.dev.json
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.dll
+C:\Users\jjose\Documents\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.runtimeconfig.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.runtimeconfig.dev.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\bin\Debug\netcoreapp2.2\ConstructoresEstaticos.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\Constructores\obj\Debug\netcoreapp2.2\ConstructoresEstaticos.pdb

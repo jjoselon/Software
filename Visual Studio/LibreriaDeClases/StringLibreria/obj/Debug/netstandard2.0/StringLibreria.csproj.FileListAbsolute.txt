@@ -1,0 +1,18 @@
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\bin\Debug\netstandard2.0\StringLibreria.deps.json
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\bin\Debug\netstandard2.0\StringLibreria.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\bin\Debug\netstandard2.0\StringLibreria.pdb
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.AssemblyInfo.cs
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.dll
+C:\Users\jjose\Documents\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\bin\Debug\netstandard2.0\StringLibreria.deps.json
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\bin\Debug\netstandard2.0\StringLibreria.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\bin\Debug\netstandard2.0\StringLibreria.pdb
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.AssemblyInfo.cs
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.dll
+C:\Users\jjose\Documents\temp\cURL\Visual Studio\LibreriaDeClases\StringLibreria\obj\Debug\netstandard2.0\StringLibreria.pdb
