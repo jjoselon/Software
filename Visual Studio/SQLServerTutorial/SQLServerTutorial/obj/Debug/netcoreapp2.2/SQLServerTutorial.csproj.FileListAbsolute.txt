@@ -1,0 +1,11 @@
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\bin\Debug\netcoreapp2.2\SQLServerTutorial.deps.json
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\bin\Debug\netcoreapp2.2\SQLServerTutorial.runtimeconfig.json
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\bin\Debug\netcoreapp2.2\SQLServerTutorial.runtimeconfig.dev.json
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\bin\Debug\netcoreapp2.2\SQLServerTutorial.dll
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\obj\Debug\netcoreapp2.2\SQLServerTutorial.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\obj\Debug\netcoreapp2.2\SQLServerTutorial.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\obj\Debug\netcoreapp2.2\SQLServerTutorial.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\obj\Debug\netcoreapp2.2\SQLServerTutorial.AssemblyInfo.cs
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\bin\Debug\netcoreapp2.2\SQLServerTutorial.pdb
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\obj\Debug\netcoreapp2.2\SQLServerTutorial.dll
+C:\Users\jjose\Documents\curl_project2\cURL\Visual Studio\SQLServerTutorial\SQLServerTutorial\obj\Debug\netcoreapp2.2\SQLServerTutorial.pdb
