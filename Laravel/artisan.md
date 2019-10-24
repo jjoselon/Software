@@ -1,8 +1,13 @@
+# M
+**Crea un modelo**
+```console
+php artisan make:controller
+```
 
 # V
 
 **Lista todas las rutas de nuestra aplicación**
-```
+```console
 php artisan route:list
 ```
 # C
