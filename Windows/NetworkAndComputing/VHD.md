@@ -1,3 +1,5 @@
+https://www.mundoinsider.com/129438/utilizar-los-discos-virtuales-vhd/
+
 Estilos de partición cuando inizializamos un vhd:
 
 - GPT
