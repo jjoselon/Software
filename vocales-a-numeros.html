@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <form id="form1" method="get">
+      <input type="text" name="" value="">
+      <input type="submit" name="" value="enviar">
+    </form>
+
+    <script type="text/javascript">
+      var c = 1;
+      document.getElementById('form1').addEventListener('submit', function (e) {
+        e.preventDefault();
+        var cadena = (e.target[0].value);
+        var resultado = cadena.replace(/a/gi, '4');
+        var resultado = resultado.replace(/e/gi, '3');
+        var resultado = resultado.replace(/i/gi, '1');
+        var resultado = resultado.replace(/o/gi, '0');
+        var resultado = resultado.replace(/u/gi, '5');
+        window.alert(resultado);
+        c++;
+      })
+    </script>
+  </body>
+</html>
