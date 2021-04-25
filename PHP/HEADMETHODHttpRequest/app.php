@@ -4,6 +4,7 @@ require 'vendor/autoload.php';
 
 $client = new \GuzzleHttp\Client();
 
+@see https://condor.depaul.edu/dmumaugh/readings/handouts/SE435/HTTP/node14.html
 // send request
 $response = $client->head($_SERVER["HTTP_REFERER"] . "file.json");
 
