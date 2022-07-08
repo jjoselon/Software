@@ -7,6 +7,7 @@ curl_setopt($ch, CURLOPT_URL, 'https://raw.githubusercontent.com/jjoselon/cURL/m
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 //curl_setopt($ch, CURLOPT_REFERER, 'http://php.net/manual/es/function.curl-setopt.php');
 $data_response = curl_exec($ch);
+curl_close($ch); // Cerramos la conexión!!
 //echo $data_response;
 
 // var_dump($data_response); // string JSON
