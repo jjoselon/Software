@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EntityFrameworkWithSqlite": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\jjose\\Documents\\charpthings\\CSharp\\CSharpThings\\EntityFrameworkWithSqlServer"
+    }
+  }
+}
