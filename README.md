@@ -1,11 +1,8 @@
-# cURL
-
 ```
-cd temp
-git clone https://github.com/jjoselon/cURL.git
-cd cURL
+git clone [url of this repo]
+cd [project folder]
 git status
 git remote
-git remote add curl https://github.com/jjoselon/cURL.git
-git push curl master
+git remote add origin [url of this repo]
+git push origin master
 ```
