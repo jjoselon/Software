@@ -10,6 +10,10 @@ Un calculo matematico simple, por ejemplo si nuestro servidor recibe 60 peticion
 
 Todo esto teniendo en cuenta el ejemplo de arriba, son usuarios concurrentes... si ... pudo haber sido un mismo usuario el que envío esa cantidad de solicitudes, como pudo haber sido mas de uno, dos, etc...
 
+### Promedio del throughput
+
+Un dato interesante es el promedio ....
+
 ## ¿ Que información necesitamos para empezar a hacer nuestras pruebas ?
 
 
