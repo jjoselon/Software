@@ -12,9 +12,14 @@ Todo esto teniendo en cuenta el ejemplo de arriba, son usuarios concurrentes... 
 
 ### Promedio del throughput
 
-Un dato interesante es el promedio ....
+Un dato interesante es el promedio, por ejemplo si se enviaron 90 peticiones en el transcurso de 2 minutos, el promedio fue de 45 peticiones por minuto **90 peticiones / 2 minutos** o tambien **90 peticiones / 120 segundos** el promedio fue de 0.75 peticiones por segundo.
 
 ## ¿ Que información necesitamos para empezar a hacer nuestras pruebas ?
+
+- **Cantidad de usuarios**: Es la cantidad de usuarios promedio (no peticiones) que esperamos visiten nuestro sitio o utilizen nuestra aplicación. Este dato comunmente lo obtenemos de datos estadisticos que nos ofrecen herramientas como Google Analytics para un ambiente productivo. Este dato es necesario para diseñar nuestra prueba de carga. Es más facil hablar de usuarios que esperamos usen nuestra aplicación y no de cuantas solicitudes GET o POST podrian llegar por segundo
+- **Que esperamos que hagan los usuarios**: En el flujo de pasos para realizar una acción en particular en nuestro sitio, de nuestro stack de funcionalidades debemos crear una secuencia de pasos que regularme seguirian los usuarios potenciales al usuario nuestra aplicación, como por ejemplo buscar un producto, agregarlo al carrito, confirmar compra, etc... Actuando asi el script de Jmeter como una "copia virtual" de los usuarios reales "Podemos esperar tener 500 usuarios en el sitio en un momento dado y queremos probar el comportamiento del sitio cuando 500 usuarios estén haciendo cosas más o menos al mismo tiempo. Pero los humanos que visitan nuestro sitio no actúan de forma sincronizada, por supuesto. En cualquier momento dado, algunas personas estarán buscando, otras leerán la descripción de un artículo, otras actualizarán su foto de perfil y tal vez algunas se detendrán por un minuto para revisar su correo electrónico y regresarán al sitio después de esa pausa.
+
+Diríamos que son 500 usuarios simultáneos, pero no realizan 500 solicitudes simultáneas. Las visitas por segundo que generen esos usuarios simultáneos solo se basarán en sus interacciones reales con la aplicación, cuando hagan clic en un botón o un enlace o envíen un formulario."
 
 
 
