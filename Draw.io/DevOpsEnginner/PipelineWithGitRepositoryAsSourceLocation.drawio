@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13">
   <diagram name="Page-1" id="1NvH-y7TEMCyPQ8jifrG">
-    <mxGraphModel dx="1532" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,7 +255,7 @@
             <mxPoint x="2962.1052631578946" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BULDakXjqyvBfwC28KaT-91" value="artifacts" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#FFFF66;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="BULDakXjqyvBfwC28KaT-91" value="&lt;div&gt;Build&lt;/div&gt;artifact" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#FFFF66;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1895.88" y="360" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-92" value="You can use this output artifacts as a inputs to the next stages" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
@@ -287,7 +287,7 @@
         <mxCell id="BULDakXjqyvBfwC28KaT-106" value="Github&amp;nbsp;&lt;div style=&quot;font-size: 9px;&quot;&gt;repository&lt;/div&gt;" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png;labelPosition=center;align=center;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="720" y="-610" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="BULDakXjqyvBfwC28KaT-108" value="&lt;b&gt;Source Stage &lt;/b&gt;builds or generate a source artifact and next&amp;nbsp;&lt;b&gt;Build Stage (CodeBuild) &lt;/b&gt;takes this built artifact as its input" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="BULDakXjqyvBfwC28KaT-20">
+        <mxCell id="BULDakXjqyvBfwC28KaT-108" value="&lt;b&gt;Source Stage &lt;/b&gt;builds or generate a &lt;i&gt;source artifact&lt;/i&gt; and next&amp;nbsp;&lt;b&gt;Build Stage (CodeBuild) &lt;/b&gt;takes this built artifact as its input" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="BULDakXjqyvBfwC28KaT-109">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="419.9999999999995" y="40" as="sourcePoint" />
             <mxPoint x="1700" y="-70" as="targetPoint" />
@@ -296,6 +296,17 @@
               <mxPoint x="1700" y="60" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BULDakXjqyvBfwC28KaT-110" value="produces" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;labelBackgroundColor=none;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" edge="1" parent="1">
+          <mxGeometry x="0.1429" y="10" relative="1" as="geometry">
+            <mxPoint x="421.03999999999996" y="-70" as="sourcePoint" />
+            <mxPoint x="421.03999999999996" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BULDakXjqyvBfwC28KaT-109" value="&lt;div&gt;Source&lt;/div&gt;artifact" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#FFFF66;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="392.54" width="55" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
