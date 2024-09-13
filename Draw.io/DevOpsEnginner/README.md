@@ -1,1 +1,1 @@
-# Those are DevOps architecture diagrams  
+# These are DevOps architecture diagrams  
