@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13">
   <diagram name="Page-1" id="1NvH-y7TEMCyPQ8jifrG">
-    <mxGraphModel dx="1772" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2810" dy="3038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="211.5" y="-370" width="1028.5" height="360" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-3" value="Bucket 2&amp;nbsp;&lt;div&gt;&lt;b&gt;(Deployment location)&lt;/b&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="611.9200000000001" y="350" width="48.08" height="50" as="geometry" />
+          <mxGeometry x="741.9200000000001" y="30" width="48.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-4" value="" style="group;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="495" width="550" height="295" as="geometry" />
+          <mxGeometry x="700" y="175" width="550" height="295" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-5" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&quot;Version&quot;: &quot;2012-10-17&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&quot;Statement&quot;: [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;&quot;Sid&quot;: &quot;PublicReadGetObject&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;&quot;Principal&quot;: &quot;*&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;&quot;Effect&quot;: &quot;Allow&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;&quot;Action&quot;: [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &quot;s3:GetObject&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;],&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;&quot;Resource&quot;: [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &quot;arn:aws:s3:::bucket-devops-prod3167/*&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="BULDakXjqyvBfwC28KaT-4">
           <mxGeometry width="550" height="295" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="15.714285714285737" y="102.6086956521739" width="62.777142857142856" height="53.919999999999995" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Static website hosting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=none;fillColor=#3399FF;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="570" y="450" width="10" height="10" as="geometry" />
+          <mxGeometry x="700" y="130" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block public&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;access&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=none;fillColor=#FFFFFF;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="570" y="472.5" width="10" height="10" as="geometry" />
+          <mxGeometry x="700" y="152.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-10" value="Transition" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=13.68421052631579;endSize=14.414035087719297;width=15.789473684210526;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" edge="1" parent="1">
           <mxGeometry x="-0.1667" width="50" height="50" relative="1" as="geometry">
@@ -72,7 +72,7 @@
         <mxCell id="BULDakXjqyvBfwC28KaT-25" value="This is where you stored your input artifacts for your pipeline. Choose the provider and then provide the connection details." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="BULDakXjqyvBfwC28KaT-20">
           <mxGeometry x="57.06" y="180" width="225.96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BULDakXjqyvBfwC28KaT-22" value="CodePipeline" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codepipeline;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="BULDakXjqyvBfwC28KaT-20">
+        <mxCell id="BULDakXjqyvBfwC28KaT-22" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codepipeline;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="BULDakXjqyvBfwC28KaT-20">
           <mxGeometry x="20" y="52" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-26" value="Action 2" style="swimlane;startSize=23;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=11;" vertex="1" parent="BULDakXjqyvBfwC28KaT-19">
@@ -165,7 +165,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BULDakXjqyvBfwC28KaT-48" value="CodePipeline" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codepipeline;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
+        <mxCell id="BULDakXjqyvBfwC28KaT-48" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codepipeline;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
           <mxGeometry x="3027" y="-264" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" edge="1" parent="1" source="BULDakXjqyvBfwC28KaT-50">
@@ -202,12 +202,7 @@
         <mxCell id="BULDakXjqyvBfwC28KaT-57" value="AWS Developer Tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
           <mxGeometry x="1242" y="-670" width="278" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BULDakXjqyvBfwC28KaT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BULDakXjqyvBfwC28KaT-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="558" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BULDakXjqyvBfwC28KaT-74" value="Github&amp;nbsp;&lt;div style=&quot;font-size: 9px;&quot;&gt;repository&lt;/div&gt;" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png;labelPosition=center;align=center;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="BULDakXjqyvBfwC28KaT-74" value="" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png;labelPosition=center;align=center;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="535" y="-256.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-77" value="Developers&lt;div&gt;commit and push&lt;/div&gt;&lt;div&gt;changes to Github&lt;/div&gt;&lt;div&gt;repository remote&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="1">
@@ -229,8 +224,8 @@
         <mxCell id="BULDakXjqyvBfwC28KaT-79" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#FF8000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;horizontal=1;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="1540" y="-255.93" width="75.93" height="75.93" as="geometry" />
         </mxCell>
-        <mxCell id="BULDakXjqyvBfwC28KaT-83" value="React APP&lt;div&gt;(contains&amp;nbsp;&lt;b&gt;buildspec.yaml&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;file for CodeBuild service)&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="486.25" y="110" width="142.5" height="56.5" as="geometry" />
+        <mxCell id="BULDakXjqyvBfwC28KaT-83" value="React APP&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(contains&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;buildspec.yaml&amp;nbsp;&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;file for CodeBuild service)&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="646.25" y="-560" width="192.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="BULDakXjqyvBfwC28KaT-85" target="BULDakXjqyvBfwC28KaT-79">
           <mxGeometry relative="1" as="geometry" />
@@ -288,6 +283,9 @@
         </mxCell>
         <mxCell id="BULDakXjqyvBfwC28KaT-105" value="&lt;div&gt;Artifact produces by CodeBuild is passed to Deploy Stage&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
           <mxGeometry x="2640" y="128.5" width="300" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BULDakXjqyvBfwC28KaT-106" value="Github&amp;nbsp;&lt;div style=&quot;font-size: 9px;&quot;&gt;repository&lt;/div&gt;" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png;labelPosition=center;align=center;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-610" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
