@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13" pages="2">
   <diagram name="Page-1" id="SmtfjlGd7zVZ5Am8PQ5m">
-    <mxGraphModel dx="2604" dy="3307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2641" dy="3922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
         <mxCell id="P6VSjZuAVvzGLbSlFFp3-51" value="Filters: push: Include branches: main" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-30" y="-222.37" width="200" height="10.87" as="geometry" />
         </mxCell>
-        <mxCell id="P6VSjZuAVvzGLbSlFFp3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" target="P6VSjZuAVvzGLbSlFFp3-70" edge="1">
+        <mxCell id="P6VSjZuAVvzGLbSlFFp3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Hake8Oohp4ko4lwyJViI-4" target="P6VSjZuAVvzGLbSlFFp3-70" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1550.04" y="-270.5000000000003" as="sourcePoint" />
           </mxGeometry>
@@ -187,13 +187,13 @@
         <mxCell id="P6VSjZuAVvzGLbSlFFp3-64" value="You can use this output artifacts as a inputs to the next stages" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="2660" y="-440" width="190.62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P6VSjZuAVvzGLbSlFFp3-68" value="Option 1: Logs in&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;pipeline execution details&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" parent="1" vertex="1">
+        <mxCell id="P6VSjZuAVvzGLbSlFFp3-68" value="Option 1: Logs in&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;pipeline execution details&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="244" y="-550" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P6VSjZuAVvzGLbSlFFp3-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="P6VSjZuAVvzGLbSlFFp3-17" target="P6VSjZuAVvzGLbSlFFp3-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P6VSjZuAVvzGLbSlFFp3-70" value="Option 2: Logs in&lt;div style=&quot;font-size: 9px;&quot;&gt;CodeDeploy &amp;gt; Deployments &amp;gt; &lt;b&gt;Deployments history&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" parent="1" vertex="1">
+        <mxCell id="P6VSjZuAVvzGLbSlFFp3-70" value="Option 2: Logs in&lt;div style=&quot;font-size: 9px;&quot;&gt;CodeDeploy &amp;gt; Deployments &amp;gt; &lt;b&gt;Deployments history&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1495" y="-500" width="110" height="44.57" as="geometry" />
         </mxCell>
         <mxCell id="P6VSjZuAVvzGLbSlFFp3-72" value="Github&amp;nbsp;&lt;div style=&quot;font-size: 9px;&quot;&gt;repository&lt;/div&gt;" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png;labelPosition=center;align=center;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" parent="1" vertex="1">
@@ -220,9 +220,9 @@
         <mxCell id="P6VSjZuAVvzGLbSlFFp3-75" value="&lt;div&gt;Source&lt;/div&gt;artifact" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#FFFF66;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="392.54" width="55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OZgBlnHVena3t2A3xkZh-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" edge="1" parent="1">
+        <mxCell id="OZgBlnHVena3t2A3xkZh-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OZgBlnHVena3t2A3xkZh-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2055" y="-1440" as="sourcePoint" />
+            <mxPoint x="2080" y="-1440" as="sourcePoint" />
             <mxPoint x="1825" y="-1440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1875" y="-1460" />
@@ -234,8 +234,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZgBlnHVena3t2A3xkZh-1" value="ec2 instance" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=top;align=right;html=1;fontSize=9;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;labelPosition=left;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2071.73" y="-1470" width="60" height="60" as="geometry" />
+        <mxCell id="VzUWOFUjQTI8E_afeObP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OZgBlnHVena3t2A3xkZh-1" target="VzUWOFUjQTI8E_afeObP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZgBlnHVena3t2A3xkZh-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=9;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;labelPosition=center;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="-1470" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-15" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Installing CodeDeploy Agent&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo yum update -y&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo yum install -y ruby wget&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;wget https://aws-codedeploy-eu-west-1.s3.eu-west-1.amazonaws.com/latest/install&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;chmod +x ./install&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo ./install auto&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Checking CodeDeploy Agent status&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo service codedeploy-agent status&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Installing Nginx&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo amazon-linux-extras install -y nginx1&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Checking Nginx status&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo service nginx status&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Starting Nginx&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo service nginx start&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Enabling Nginx to restart on system reboot&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo chkconfig nginx on&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Creating folders for deployments&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo mkdir -p /var/www/my-php-project&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Changing Nginx configuration&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo nano /etc/nginx/nginx.conf&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Only change root to /var/www/my-angular-project&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Press `Ctrl + X` to exit, press `Y` to save and press `Enter` to approve.&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;# Restart Nginx&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;sudo service nginx restart&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
           <mxGeometry x="2377" y="-1460" width="440" height="380" as="geometry" />
@@ -282,32 +285,32 @@
           <mxGeometry x="1745" y="-1462" width="78" height="44" as="geometry" />
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-5" value="Inbound rules" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=10;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="-1390" width="180" height="100" as="geometry" />
+          <mxGeometry x="2170" y="-1500" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=10;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="OZgBlnHVena3t2A3xkZh-5">
-          <mxGeometry y="30" width="180" height="40" as="geometry" />
+          <mxGeometry y="30" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-7" value="TCP&lt;div style=&quot;font-size: 10px;&quot;&gt;[HTTP]&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=10;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="OZgBlnHVena3t2A3xkZh-6">
-          <mxGeometry width="39" height="40" as="geometry">
-            <mxRectangle width="39" height="40" as="alternateBounds" />
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-8" value="PORT 80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=10;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="OZgBlnHVena3t2A3xkZh-6">
-          <mxGeometry x="39" width="141" height="40" as="geometry">
-            <mxRectangle width="141" height="40" as="alternateBounds" />
+          <mxGeometry x="28" width="102" height="40" as="geometry">
+            <mxRectangle width="102" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=10;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="OZgBlnHVena3t2A3xkZh-5">
-          <mxGeometry y="70" width="180" height="30" as="geometry" />
+          <mxGeometry y="70" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-10" value="SSH" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=10;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="OZgBlnHVena3t2A3xkZh-9">
-          <mxGeometry width="39" height="30" as="geometry">
-            <mxRectangle width="39" height="30" as="alternateBounds" />
+          <mxGeometry width="28" height="30" as="geometry">
+            <mxRectangle width="28" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OZgBlnHVena3t2A3xkZh-11" value="PORT 22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=10;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="OZgBlnHVena3t2A3xkZh-9">
-          <mxGeometry x="39" width="141" height="30" as="geometry">
-            <mxRectangle width="141" height="30" as="alternateBounds" />
+          <mxGeometry x="28" width="102" height="30" as="geometry">
+            <mxRectangle width="102" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hake8Oohp4ko4lwyJViI-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;fontColor=#FFFFFF;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
@@ -329,6 +332,20 @@
         </mxCell>
         <mxCell id="Hake8Oohp4ko4lwyJViI-7" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;- ApplicationStop&lt;div style=&quot;font-size: 9px;&quot;&gt;- DownloadBundle&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- BeforeInstall&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- Install&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;-&amp;nbsp;AfterInstall&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- ApplicationStart&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- ValidateService&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1795" y="-524.63" width="135.37" height="99.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Hake8Oohp4ko4lwyJViI-8" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="1850" y="-474.71" width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VzUWOFUjQTI8E_afeObP-2" value="Option 3: Logs in&amp;nbsp;&lt;b&gt;CodeDeploy agent logs&lt;/b&gt;&amp;nbsp;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/var/log/aws/codedeploy-agent/codedeploy-agent.log&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/opt/codedeploy-agent/deployment-root/&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2001.47" y="-487.71" width="248.53" height="57.71" as="geometry" />
+        </mxCell>
+        <mxCell id="VzUWOFUjQTI8E_afeObP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Hake8Oohp4ko4lwyJViI-4" target="VzUWOFUjQTI8E_afeObP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="-390" />
+              <mxPoint x="2126" y="-390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
