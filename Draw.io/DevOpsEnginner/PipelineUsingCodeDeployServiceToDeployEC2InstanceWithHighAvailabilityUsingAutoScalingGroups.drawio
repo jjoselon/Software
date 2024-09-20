@@ -1,6 +1,46 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.15" pages="3">
   <diagram name="Page-1" id="AW2i8apj6tMe_CCILZKY">
     <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fL-0escjvCju7beFiGhU" name="Resources EC2">
+    <mxGraphModel dx="806" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S3xF-uC99B2JrpNq7Ahm-1" value="AMI" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ami;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="S3xF-uC99B2JrpNq7Ahm-2" value="Created based on instance EC2: &quot;webserver&quot;&lt;div&gt;An AMI is a template that contains the software configuration (operating system, application server, and applications) required to launch your instance.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S3xF-uC99B2JrpNq7Ahm-3" value="Launch&amp;nbsp;&lt;div&gt;template&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.template;fillColor=#f58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="102.25" y="420" width="55.5" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S3xF-uC99B2JrpNq7Ahm-5" value="use this custom AMI&amp;nbsp;&lt;div&gt;(required)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="400" as="sourcePoint" />
+            <mxPoint x="130" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zmZMP-hy8pC5Rgot6KQ-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6zmZMP-hy8pC5Rgot6KQ-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6zmZMP-hy8pC5Rgot6KQ-4" value="&lt;div&gt;Creating a launch template allows you to create a saved instance configuration that can be reused, shared and launched at a later time. Templates can have multiple versions.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="400" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="28Ixr_ZWNVe8nQ4Sb7cq" name="Resources IAM">
+    <mxGraphModel dx="806" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
