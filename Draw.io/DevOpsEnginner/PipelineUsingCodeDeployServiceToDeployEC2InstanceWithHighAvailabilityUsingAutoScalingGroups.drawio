@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-0escjvCju7beFiGhU" name="Resources EC2">
-    <mxGraphModel dx="1151" dy="3307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="461" dy="2643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,6 +61,17 @@
         <mxCell id="28b8I21VQ1IwUqqT0UfH-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="82.25" y="680" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="28b8I21VQ1IwUqqT0UfH-8" value="&lt;div&gt;Choose an Application Load Balancer when you need a flexible feature set for your applications with HTTP and HTTPS traffic. Operating at the request level, Application Load Balancers provide advanced routing and visibility features targeted at application architectures, including microservices and containers.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="28b8I21VQ1IwUqqT0UfH-10" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="SG #1" linkTarget="_blank" link="https://github.com/jjoselon/Software/blob/master/Draw.io/Resources/EC2.drawio" id="28b8I21VQ1IwUqqT0UfH-11">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="225" y="810" width="60" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
