@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.15" pages="2">
   <diagram name="Page-1" id="AW2i8apj6tMe_CCILZKY">
-    <mxGraphModel dx="9114" dy="5332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3090" dy="4414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,7 +164,7 @@
             <mxPoint x="1550.04" y="-270.5000000000003" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYvpP0GDhKgUDjFn0ng6-38" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(contains&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;buildspec.yaml&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;file for CodeDeploy service) in this case&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
+        <mxCell id="mYvpP0GDhKgUDjFn0ng6-38" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(contains&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;appspec.yaml&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;file for CodeDeploy service) in this case&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;" vertex="1" parent="1">
           <mxGeometry x="1810" y="-1865" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mYvpP0GDhKgUDjFn0ng6-39" value="inputs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" edge="1" parent="1" source="mYvpP0GDhKgUDjFn0ng6-41" target="mYvpP0GDhKgUDjFn0ng6-42">
@@ -175,7 +175,7 @@
             <mxPoint x="2740.342105263158" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYvpP0GDhKgUDjFn0ng6-41" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;buildspec.yaml&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Define commands and settings for deploy php app with&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Codeploy service to EC2 instance&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;(store in the source code root directory repo)&lt;/div&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=left;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;labelPosition=right;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="mYvpP0GDhKgUDjFn0ng6-41" value="&lt;b style=&quot;font-size: 9px;&quot;&gt;appspec.yaml&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Define commands and settings for deploy php app with&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Codeploy service to EC2 instance&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;(store in the source code root directory repo)&lt;/div&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=left;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;labelPosition=right;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="2716.5" y="-663.5" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mYvpP0GDhKgUDjFn0ng6-42" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Hooks&lt;/b&gt;&lt;/div&gt;- ApplicationStop&lt;div style=&quot;font-size: 9px;&quot;&gt;- DownloadBundle&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- BeforeInstall&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- Install&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;-&amp;nbsp;AfterInstall&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- ApplicationStart&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;- ValidateService&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
@@ -424,7 +424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-0escjvCju7beFiGhU" name="Resources EC2">
-    <mxGraphModel dx="3986" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1772" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
