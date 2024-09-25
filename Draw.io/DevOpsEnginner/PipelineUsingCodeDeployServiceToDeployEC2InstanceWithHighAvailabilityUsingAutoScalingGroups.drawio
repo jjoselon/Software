@@ -424,7 +424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-0escjvCju7beFiGhU" name="Resources EC2">
-    <mxGraphModel dx="2056" dy="3392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3986" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,14 +452,6 @@
         <mxCell id="6zmZMP-hy8pC5Rgot6KQ-4" value="&lt;div&gt;Creating a launch template allows you to create a saved instance configuration that can be reused, shared and launched at a later time. Templates can have multiple versions.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="420" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="28b8I21VQ1IwUqqT0UfH-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-1470" width="78" height="44" as="geometry" />
-        </mxCell>
-        <UserObject label="IAM Role #2" linkTarget="_blank" link="https://github.com/jjoselon/Software/blob/master/Draw.io/Resources/IAM.drawio" id="28b8I21VQ1IwUqqT0UfH-2">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;strokeColor=none;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontSize=9;" vertex="1" parent="1">
-            <mxGeometry x="60" y="-1490" width="84.5" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="28b8I21VQ1IwUqqT0UfH-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="1">
           <mxGeometry x="180" y="560" width="78" height="44" as="geometry" />
         </mxCell>
